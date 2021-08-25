@@ -1,9 +1,20 @@
-Holaa! Como estas?
-Mi nombre es Dario Silva, soy full stack web developer (javascript), formado en la Academia Henry! 😊
+![emile-perron-xrVDYZRGdw4-unsplash](https://user-images.githubusercontent.com/71469341/130875195-89579961-ed67-40ec-be88-c953d0e6fd8c.jpg)
 
-Sería una acertada decisión que me sumes a tu equipo.
-   
-Por que ?
+
+
+
+Holaa!
+
+
+
+Mi nombre es Dario Silva, soy full stack developer (javascript), formado en la Academia Henry! 😊
+
+
+
+Sería una acertada decisión que me sumes a tu equipo.    Por que ?
+
+
+
 Soy sociable y muy curioso, me adapto a cualquier entorno laboral. Me gusta aprender de los demás y mas aún, colaborar en su aprendizaje.
 Aporto optimismo y buena energía al ambiente laboral.
 Considero que nada mejor que el trabajo en equipo.
@@ -16,6 +27,5 @@ Skills:
 HTML - CSS3 - Javascript - ReactJS - ReduxJS - Express - NodeJS -Sequelize - PostgreSQL
 
 
-Recomendación: Contactame. 😁 
+Recomendación: Contactame. 😁
 
--[LinkedIn](https://www.linkedin.com/in/dario-silva7/)
