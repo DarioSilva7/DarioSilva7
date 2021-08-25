@@ -11,3 +11,6 @@ Considero que nada mejor que el trabajo en equipo.
 Me encanta la magia de la programación, unas lineas de codigo que pueden hacer lo que sea, me parece fantástico. Eso me motiva a aprender y aplicar constantemente nuevas      /  tecnologías.
  
 Recomendación: Contactame. 😁 
+
+-[LinkedIn](https://www.linkedin.com/in/dario-silva7/)
+-[WhatsApp](https://wa.me/5491122381000)
