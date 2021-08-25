@@ -1,16 +1,13 @@
-### Hi there 👋
+Holaa! Como estas?
+Mi nombre es Dario Silva, soy full stack web developer (javascript), formado en la Academia Henry! 😊
 
-<!--
-**DarioSilva7/DarioSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sería una acertada decisión que me sumes a tu equipo.
+   
+Por que ?
+Soy sociable y muy curioso, me adapto a cualquier entorno laboral. Me gusta aprender de los demás y mas aún, colaborar en su aprendizaje.
+Aporto optimismo y buena energía al ambiente laboral.
+Considero que nada mejor que el trabajo en equipo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encanta la magia de la programación, unas lineas de codigo que pueden hacer lo que sea, me parece fantástico. Eso me motiva a aprender y aplicar constantemente nuevas      /  tecnologías.
+ 
+Recomendación: Contactame. 😁 
