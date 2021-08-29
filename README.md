@@ -19,7 +19,7 @@ Soy sociable y muy curioso, me adapto a cualquier entorno laboral. Me gusta apre
 Aporto optimismo y buena energía al ambiente laboral.
 Considero que nada mejor que el trabajo en equipo.
 
-Me encanta la magia de la programación, unas lineas de codigo que pueden hacer lo que sea, me parece fantástico. Eso me motiva a aprender y aplicar constantemente nuevas      /  tecnologías.
+Me encanta la magia de la programación, unas lineas de codigo que pueden hacer lo que sea, me parece fantástico. Eso me motiva a aprender y aplicar constantemente nuevas tecnologías.
 
 
 Skills:
