@@ -29,3 +29,8 @@ HTML - CSS3 - Javascript - ReactJS - ReduxJS - Express - NodeJS -Sequelize - Pos
 
 Recomendación: Contactame. 😁
 
+Correo => darioemmanuelsilva@gmail.com
+
+Link a Whatsapp => https://api.whatsapp.com/send?phone=541122381000
+
+LinkedIn => https://www.linkedin.com/in/dario-silva7/
