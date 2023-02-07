@@ -7,7 +7,7 @@ Holaa!
 
 
 
-Mi nombre es Dario Silva, soy full stack developer (javascript), formado en la Academia Henry! 😊
+Mi nombre es Dario Silva, soy backend developer (NodeJS), con conocimientos en frontend (React) formado en la Academia Henry! 😊
 
 
 
@@ -18,14 +18,14 @@ Me encanta la magia de la programación, unas líneas de código que pueden hace
 Skills:
 
 
-HTML - CSS3 - Javascript - ReactJS - ReduxJS - Express - NodeJS - Sequelize - PostgreSQL - MongoDB - Mongoose
+Javascript - ReactJS - ReduxJS - Express - NodeJS - Typescript - Sequelize - PostgreSQL - MySQL - MongoDB - Mongoose - Docker - Jest - Swagger
 
 
 Recomendación: Contactame. 😁
 
 [Correo](darioemmanuelsilva@gmail.com)
 
-[Whatsapp](https://api.whatsapp.com/send?phone=541122381000)
+[Whatsapp](https://api.whatsapp.com/send?phone=543364687486)
 
 [LinkedIn](https://www.linkedin.com/in/dario-silva7/)
 
